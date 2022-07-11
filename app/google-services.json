@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "562682382544",
+    "project_id": "lunchrecommend-fd9ea",
+    "storage_bucket": "lunchrecommend-fd9ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562682382544:android:966d1445a9ff0bd07136d5",
+        "android_client_info": {
+          "package_name": "com.dldmswo1209.lunchrecommend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "562682382544-btusgbbjg2m051pqf97vjdft3atf0p40.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBu7nZd02ypq8H22pulYaStCfHDeXVIjTc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "562682382544-btusgbbjg2m051pqf97vjdft3atf0p40.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

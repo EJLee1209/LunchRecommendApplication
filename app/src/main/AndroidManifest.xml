@@ -14,11 +14,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.LunchRecommend">
 
-
         <meta-data
             android:name="com.google.android.geo.API_KEY"
             android:value="AIzaSyB92tnT1i5tb36lf10upZuU3qaOEfaj1ak" />
-
 
         <activity
             android:name=".MainActivity"

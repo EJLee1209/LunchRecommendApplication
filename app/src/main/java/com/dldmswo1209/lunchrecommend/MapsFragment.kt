@@ -110,7 +110,7 @@ class MapsFragment : Fragment(), OnMapReadyCallback,PlacesListener {
             .listener(this)
             .key("AIzaSyDXPrkprv1T8DqwwOSWdP6PMCuzJh6MKso")
             .latlng(location.latitude, location.longitude) //현재 위치
-            .radius(1000) //1000 미터 내에서 검색
+            .radius(2000) //1000 미터 내에서 검색
             .type(PlaceType.RESTAURANT) //음식점
             .build()
             .execute()
